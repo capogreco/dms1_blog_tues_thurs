@@ -15,3 +15,6 @@ _underline_
 **bold**
 
 Example change!
+
+
+![a futuristic classroom, similar to one at RMIT lol](/w01s1/dms1_pfp.png)
